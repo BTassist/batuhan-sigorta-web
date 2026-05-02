@@ -1,0 +1,21 @@
+# Batuhan Sigorta - robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Sitemap
+Sitemap: https://www.batuhansigorta.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
